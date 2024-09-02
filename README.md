@@ -10,6 +10,8 @@ Customers.xls - [https://easyupload.io/nsu7nm]
 Orders.csv - [https://easyupload.io/tqcu2a]
 Shippings.json - [https://easyupload.io/qxbirl]
 
+Data sources are also uploaded in "Data Sources" sub branch
+
 
 The team is trying to generate the reports for the below requirements
 
